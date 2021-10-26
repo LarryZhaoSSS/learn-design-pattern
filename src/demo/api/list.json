@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Javascript高级程序设计",
+    "price": 101,
+    "discount": 1
+  },
+  {
+    "id": 2,
+    "name": "Java核心技术",
+    "price": 102,
+    "discount": 1
+  },
+  {
+    "id": 3,
+    "name": "Java编程思想",
+    "price": 103,
+    "discount": 0
+  },
+  {
+    "id": 4,
+    "name": "C++ Primer",
+    "price": 104,
+    "discount": 0
+  },
+  {
+    "id": 5,
+    "name": "算法导论",
+    "price": 105,
+    "discount": 0
+  }
+]
